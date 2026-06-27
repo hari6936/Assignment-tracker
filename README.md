@@ -13,9 +13,6 @@ A simple and efficient web application to track your academic assignments, deadl
 - **Frontend:** [Insert your choice, e.g., EJS or React]
 - **Database:** [e.g., MongoDB with Mongoose or SQLite]
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
+
    
    
