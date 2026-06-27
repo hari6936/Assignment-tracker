@@ -10,8 +10,11 @@ A simple and efficient web application to track your academic assignments, deadl
 
 ## Tech Stack
 - **Backend:** Node.js, Express
-- **Frontend:** [Insert your choice, e.g., EJS or React]
-- **Database:** [e.g., MongoDB with Mongoose or SQLite]
+- **Frontend:** ## Tech Stack
+- **Backend:** Node.js, Express
+- **Frontend:** EJS
+- **Database:** SQLite
+
 
 
    
