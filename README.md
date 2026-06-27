@@ -15,5 +15,5 @@ A simple and efficient web application to track your academic assignments, deadl
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-rhttps://github.com/hari6936/Assignment-tracker.gitepo-url>
+https://github.com/hari6936/Assignment-tracker.gitepo
    
