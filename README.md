@@ -10,10 +10,9 @@ A simple and efficient web application to track your academic assignments, deadl
 
 ## Tech Stack
 - **Backend:** Node.js, Express
-- **Frontend:** ## Tech Stack
-- **Backend:** Node.js, Express
 - **Frontend:** EJS
 - **Database:** SQLite
+- 
 
 
 
